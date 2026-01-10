@@ -13,9 +13,7 @@
 
 - 🔭 I'm currently working on **GleamSaaS** - A SaaS platform for cleaning companies
 - 🌱 I'm building with **TypeScript** and modern web technologies
-- 💬 Ask me about **Full Stack Development, SaaS, Laravel**
-- 📫 How to reach me: [GitHub](https://github.com/iLongRanger)
-
+- 🤘 I love **Heavy Metal** 🎸
 ---
 
 ## 🛠️ Tech Stack
