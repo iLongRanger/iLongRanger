@@ -18,6 +18,16 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,php,html,css,laravel,react,nextjs,nodejs,tailwind,git,mysql,vscode&theme=dark&perline=7" />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -45,16 +55,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iLongRanger/iLongRanger/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/iLongRanger/iLongRanger/output/github-snake-dark.svg" />
   </picture>
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,php,html,css,laravel,react,nextjs,nodejs,tailwind,git,mysql,vscode&theme=dark&perline=7" />
-  </a>
 </div>
 
 ---
