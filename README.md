@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub Profile
+
 
 <!-- Typing SVG -->
 <div align="center">
