@@ -1,14 +1,5 @@
 
 
-<!-- Typing SVG -->
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Ralp+Jeff+Ortiz+%F0%9F%91%8B;Full+Stack+Developer;Building+Business+Solutions;Always+learning+new+things)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **GleamSaaS** - A SaaS platform for cleaning companies
