@@ -1,8 +1,7 @@
 
 
 ## 🚀 About Me
-
-- 🔭 I'm currently working on **GleamSaaS** - A SaaS platform for cleaning companies
+- Adopting with fast AI takeover.
 - 🌱 I'm building with **TypeScript** and modern web technologies
 - 🤘 I love **Heavy Metal** 🎸
 ---
